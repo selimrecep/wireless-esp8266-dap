@@ -16,7 +16,7 @@ static struct {
     const char *password;
 } wifi_list[] __attribute__((unused)) = {
     // Add your WAP like this:
-    // urgh, why it couldnt just compile locally...
+    // urgh, why it couldnt just compile locally... .
     {.ssid = "Guest1_ESP8266", .password = "Am^Lp0K923nBQ"},
 };
 
